@@ -1,0 +1,52 @@
+{
+    "name": "client",
+    "version": "1.0.0",
+    "description": "My ace Nuxt.js project",
+    "author": "lapgun",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^15.0.0",
+        "@ckeditor/ckeditor5-vue": "^1.0.0",
+        "@fortawesome/fontawesome-svg-core": "^1.2.25",
+        "@fortawesome/free-solid-svg-icons": "^5.11.2",
+        "@fortawesome/vue-fontawesome": "^0.1.8",
+        "@nuxtjs/axios": "^5.3.6",
+        "@smartweb/vue-flash-message": "^0.5.0",
+        "@vuejs-pt/vue-alert": "^1.2.2",
+        "axios": "^0.19.0",
+        "bootstrap": "^4.1.3",
+        "bootstrap-vue": "^2.0.0",
+        "ckeditor": "^4.12.1",
+        "cookieparser": "^0.1.0",
+        "firebase-admin": "^8.7.0",
+        "infinite-scroll": "^3.0.6",
+        "js-cookie": "^2.2.1",
+        "nuxt": "^2.0.0",
+        "qrcode.vue": "^1.7.0",
+        "socket.io-client": "^2.3.0",
+        "v-infinite-scroll": "^1.0.4",
+        "vee-validate": "^3.0.11",
+        "vue-ckeditor5": "^0.4.1",
+        "vue-cli": "^2.9.6",
+        "vue-infinite-loading": "^2.4.4",
+        "vue-paypal-checkout": "^3.2.0",
+        "vue-qrcode-component": "^2.1.1",
+        "vue-simple-alert": "^1.1.1",
+        "vue-socket.io": "^3.0.7",
+        "vue-star-rating": "^1.6.1",
+        "vue-upload-image": "^1.1.5",
+        "vue-validator": "^3.0.0-alpha.2",
+        "vuelidate": "^0.7.4",
+        "vueperslides": "^2.0.3"
+    },
+    "devDependencies": {
+        "@fortawesome/fontawesome-free": "^5.11.2",
+        "font-awesome": "^4.7.0"
+    }
+}
